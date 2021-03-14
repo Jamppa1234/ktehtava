@@ -1,2 +1,62 @@
 DESKTOP-98GC5UV
 13032021
+
+Host Name:                 DESKTOP-98GC5UV
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19041 N/A Build 19041
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          omistaja
+Registered Organization:   
+Product ID:                00330-80000-00000-AA651
+Original Install Date:     16.11.2020, 7.01.04
+System Boot Time:          13.3.2021, 15.20.11
+System Manufacturer:       FUJITSU
+System Model:              LIFEBOOK S761
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~2501 Mhz
+BIOS Version:              FUJITSU // Phoenix Technologies Ltd. Version 1.14, 27.4.2011
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             fi;suomi
+Input Locale:              fi;suomi
+Time Zone:                 (UTC+02:00) Helsinki, Kiev, Riika, Tallinna, Sofia, Vilna
+Total Physical Memory:     8 079 MB
+Available Physical Memory: 4 101 MB
+Virtual Memory: Max Size:  9 359 MB
+Virtual Memory: Available: 4 143 MB
+Virtual Memory: In Use:    5 216 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-98GC5UV
+Hotfix(s):                 7 Hotfix(s) Installed.
+                           [01]: KB4601050
+                           [02]: KB4580325
+                           [03]: KB4586864
+                           [04]: KB4593175
+                           [05]: KB4598481
+                           [06]: KB5000802
+                           [07]: KB5000858
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: TAP-Windows Adapter V9
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [02]: Intel(R) 82579LM Gigabit Network Connection
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.100.1
+                                 IP address(es)
+                                 [01]: 192.168.100.20
+                                 [02]: fe80::5e9a:d8ff:fedf:3e25
+                                 [03]: fd38:378b:67c1:a400:b7:5593:7602:70f8
+                                 [04]: fd38:378b:67c1:a400:5e9a:d8ff:fedf:3e25
+                           [03]: Intel(R) Centrino(R) Advanced-N 6205 -ohjain
+                                 Connection Name: WLAN
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
